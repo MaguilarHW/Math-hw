@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.21)  23 MAR 2026 12:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.21)  23 MAR 2026 13:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -569,15 +569,14 @@ Class revtex4-2 Warning: Assuming \noaffiliation for authors.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\\' on input line 69.
 
-(./hw.bbl
-LaTeX Font Info:    Trying to load font information for U+msa on input line 9.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Trying to load font information for U+msa on input line 81.
+(/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 9.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 81.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+) (./hw.bbl
 
 Package natbib Warning: Empty `thebibliography' environment on input line 52.
 
@@ -590,18 +589,18 @@ Package rerunfilecheck Info: File `hw.out' has not changed.
 (rerunfilecheck)             Checksum: D5F16CB3F4CA731B533C16DD5C78395F;519.
  ) 
 Here is how much of TeX's memory you used:
- 17600 strings out of 474116
- 330832 string characters out of 5743682
- 1929187 words of memory out of 5000000
- 39760 multiletter control sequences out of 15000+600000
- 566990 words of font info for 68 fonts, out of 8000000 for 9000
+ 17618 strings out of 474116
+ 331075 string characters out of 5743682
+ 1934187 words of memory out of 5000000
+ 39773 multiletter control sequences out of 15000+600000
+ 569577 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,5n,79p,425b,985s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
-Output written on hw.pdf (1 page, 51114 bytes).
+ 75i,5n,79p,571b,985s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on hw.pdf (1 page, 89211 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 67 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
  25 words of extra memory for PDF output out of 10000 (max. 10000000)
 
